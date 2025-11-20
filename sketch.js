@@ -1,3 +1,4 @@
+// MORELL Mathilde - mathilde.morell@edu.devinci.fr
 let NP = 1000;
 let PI = Math.PI;
 
