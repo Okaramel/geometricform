@@ -1,0 +1,10 @@
+body { margin: 0; font-family: Arial, Helvetica, sans-serif; background: #111; color: #eee; }
+.topbar { display:flex; align-items:center; gap:12px; padding:12px; background:#0f0f12; }
+.topbar h1 { font-size:16px; margin:0; }
+#sketch-select { padding:6px 8px; font-size:14px; }
+#sketch-holder { width: 600px; height: 600px; margin: 20px auto; display:block; }
+
+/* responsive */
+@media (max-width:700px){
+  #sketch-holder{ width:100%; height:auto; }
+}
